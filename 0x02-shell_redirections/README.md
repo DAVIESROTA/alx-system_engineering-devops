@@ -1,1 +1,1 @@
-Hello, World
+prints text to standard output
